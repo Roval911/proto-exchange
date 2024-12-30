@@ -1,4 +1,5 @@
-module proto-exchange
+module github.com/Roval911/proto-exchange
+
 
 go 1.23.1
 
