@@ -1,4 +1,4 @@
-module github.com/lirprocs/proto-exchange
+module github.com/roval911/proto-exchange
 
 go 1.23.3
 
